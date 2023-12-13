@@ -55,3 +55,11 @@ test_db.sqlite3
 
 # Ignore environment file
 .env
+
+# Ignore node_modules
+node_modules
+
+# Ignore package.json and package-lock.json
+package.json
+package-lock.json
+
